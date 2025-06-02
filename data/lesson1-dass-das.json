@@ -1,0 +1,58 @@
+{
+    "id": "lesson1",
+    "title": "Lesson 1: dass vs. das",
+    "questions": [
+        {
+            "question": "Ich hoffe, ___ du bald kommst.",
+            "options": ["dass", "das"],
+            "correct": 0
+        },
+        {
+            "question": "___ Buch, ___ ich gestern gekauft habe, ist sehr interessant.",
+            "options": ["Das...dass", "Das...das", "Dass...das", "Dass...dass"],
+            "correct": 1
+        },
+        {
+            "question": "Er sagte mir, ___ er heute nicht arbeiten kann.",
+            "options": ["dass", "das"],
+            "correct": 0
+        },
+        {
+            "question": "___ ist mir völlig egal, was du darüber denkst.",
+            "options": ["Dass", "Das"],
+            "correct": 1
+        },
+        {
+            "question": "Ich bin der Meinung, ___ wir uns mehr Zeit nehmen sollten, denn ___ Problem ist zu komplex für eine schnelle Lösung.",
+            "options": ["dass...das", "das...das", "dass...dass", "das...dass"],
+            "correct": 0
+        },
+        {
+            "question": "Kannst du mir erklären, ___ ___ Gerät funktioniert?",
+            "options": ["dass...das", "das...das", "dass...dass", "das...dass"],
+            "correct": 0
+        }
+    ],
+    "groupA": {},
+    "groupB": {
+        "examples": [
+            "<strong>dass:</strong>",
+            "- Ich weiß, <u>dass</u> er kommt. (I know that he is coming.)",
+            "- Es ist wichtig, <u>dass</u> du pünktlich bist. (It is important that you are on time.)",
+            "- Ich bin überzeugt, <u>dass</u> wir die richtige Entscheidung getroffen haben. (I am convinced that we have made the right decision.)",
+            "",
+            "<strong>das:</strong>",
+            "- An article: <u>Das</u> Haus ist groß. (The house is big.)",
+            "- A pronoun: <u>Das</u> ist mein Auto. (That is my car.)",
+            "- A relative pronoun: Das Buch, <u>das</u> auf dem Tisch liegt, gehört mir. (The book that is on the table belongs to me.)",
+            "",
+            "<strong>Examples with both forms in one sentence:</strong>",
+            "- Ich glaube, <u>dass</u> <u>das</u> eine gute Idee ist. (I believe that this is a good idea.)",
+            "- <u>Das</u> Auto, <u>das</u> ich gestern gesehen habe, gefällt mir sehr gut. (The car that I saw yesterday appeals to me very much.)",
+            "- Weißt du, <u>dass</u> <u>das</u> Konzert verschoben wurde? (Do you know that the concert has been postponed?)"
+        ]
+    },
+    "groupC": {
+        "explanation": "<h3>dass (with double 's')</h3><p><strong>dass</strong> is a conjunction that introduces a subordinate clause. It is equivalent to \"that\" in English when used to connect clauses.</p><p>Key characteristics of <strong>dass</strong>:</p><ul><li>Always spelled with double 's'</li><li>Introduces a dependent clause</li><li>Sends the verb to the end of the clause</li><li>Cannot be replaced by \"welches\" or \"dieses\"</li><li>Used after verbs of thinking, feeling, saying, perceiving</li><li>Often follows expressions like \"es ist wichtig/gut/schade...\"</li></ul><h3>das (with single 's')</h3><p><strong>das</strong> can function as:</p><ol><li><strong>Definite article</strong> (the) for neuter nouns</li><li><strong>Demonstrative pronoun</strong> (that, this)</li><li><strong>Relative pronoun</strong> for neuter nouns</li></ol><h3>How to tell them apart:</h3><p>Try to replace it with \"dieses\" or \"welches\" - if it works, use <strong>das</strong> (single 's'); if not, use <strong>dass</strong> (double 's').</p><h3>Multiple occurrences in one sentence:</h3><p>It's possible to have both forms in the same sentence, each fulfilling its respective grammatical function. The context and grammatical structure will determine which form is required in each position.</p>"
+    }
+}

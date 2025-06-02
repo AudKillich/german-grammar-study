@@ -1,0 +1,58 @@
+{
+    "id": "lesson2",
+    "title": "Lesson 2: seid vs. seit",
+    "questions": [
+        {
+            "question": "___ ihr schon fertig mit den Hausaufgaben?",
+            "options": ["Seid", "Seit"],
+            "correct": 0
+        },
+        {
+            "question": "Wir wohnen ___ drei Jahren in Berlin und ___ sehr zufrieden mit unserer Wohnung.",
+            "options": ["seit...seid", "seit...seit", "seid...seit", "seid...seid"],
+            "correct": 0
+        },
+        {
+            "question": "___ wann arbeitet ihr ___ so fleißig an diesem Projekt?",
+            "options": ["Seit...seid", "Seid...seit", "Seit...seit", "Seid...seid"],
+            "correct": 0
+        },
+        {
+            "question": "___ ihr mit dem Ergebnis zufrieden?",
+            "options": ["Seid", "Seit"],
+            "correct": 0
+        },
+        {
+            "question": "Ich glaube, ihr ___ nicht informiert worden, dass der Kurs ___ letzter Woche ausfällt.",
+            "options": ["seid...seit", "seit...seit", "seit...seid", "seid...seid"],
+            "correct": 0
+        },
+        {
+            "question": "___ ihr zufrieden mit eurer Leistung? Ihr trainiert doch ___ Monaten für diesen Wettbewerb.",
+            "options": ["Seid...seit", "Seit...seit", "Seit...seid", "Seid...seid"],
+            "correct": 0
+        }
+    ],
+    "groupA": {},
+    "groupB": {
+        "examples": [
+            "<strong>seid:</strong>",
+            "- Ihr <u>seid</u> meine Freunde. (You are my friends.)",
+            "- <u>Seid</u> ihr müde? (Are you tired?)",
+            "- Hoffentlich <u>seid</u> ihr pünktlich zum Treffen. (Hopefully you'll be on time for the meeting.)",
+            "",
+            "<strong>seit:</strong>",
+            "- Ich lerne <u>seit</u> drei Jahren Deutsch. (I've been learning German for three years.)",
+            "- Er wohnt <u>seit</u> 2020 in München. (He has been living in Munich since 2020.)",
+            "- <u>Seit</u> wann kennst du ihn? (Since when have you known him?)",
+            "",
+            "<strong>Examples with both forms in one sentence:</strong>",
+            "- <u>Seit</u> wann <u>seid</u> ihr verheiratet? (Since when have you been married?)",
+            "- Ihr <u>seid</u> <u>seit</u> zwei Stunden hier. (You have been here for two hours.)",
+            "- <u>Seid</u> ihr <u>seit</u> letztem Monat Mitglieder dieses Vereins? (Have you been members of this club since last month?)"
+        ]
+    },
+    "groupC": {
+        "explanation": "<h3>seid</h3><p><strong>seid</strong> is the second-person plural (ihr) form of the verb \"sein\" (to be).</p><p>Conjugation of \"sein\" in present tense:</p><ul><li>ich bin (I am)</li><li>du bist (you are - singular informal)</li><li>er/sie/es ist (he/she/it is)</li><li>wir sind (we are)</li><li><strong>ihr seid</strong> (you are - plural informal)</li><li>sie/Sie sind (they/you are - formal)</li></ul><p>As a verb form, <strong>seid</strong> can:</p><ul><li>Begin a question: \"<strong>Seid</strong> ihr...?\"</li><li>Follow a subject: \"Ihr <strong>seid</strong>...\"</li><li>Appear in dependent clauses: \"...dass ihr <strong>seid</strong>\"</li></ul><h3>seit</h3><p><strong>seit</strong> is a preposition meaning \"since\" or \"for\" (with a period of time). It is used with the dative case.</p><p>It can be used to indicate:</p><ul><li>A starting point in time: \"<strong>seit</strong> Montag\" (since Monday)</li><li>A duration: \"<strong>seit</strong> drei Jahren\" (for three years)</li></ul><p>It can also form the question word \"<strong>seit</strong> wann\" (since when)</p><h3>How to tell them apart:</h3><p>Think about whether you're talking about:</p><ul><li>A state of being for a group of people (you all) → <strong>seid</strong></li><li>A time duration or starting point → <strong>seit</strong></li></ul><p>Both forms can appear in the same sentence when discussing a group of people and a time period together.</p>"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "studyConfig": {
+        "title": "German Grammar Test",
+        "groups": {
+            "groupA": {
+                "intro": "Please answer the following questions about German grammar."
+            },
+            "groupB": {
+                "intro": "In this study, you will learn about two common German grammar distinctions."
+            },
+            "groupC": {
+                "intro": "In this study, you will learn about two common German grammar distinctions."
+            }
+        }
+    },
+    "lessons": [
+        {
+            "id": "lesson1",
+            "file": "lesson1-dass-das.json"
+        },
+        {
+            "id": "lesson2", 
+            "file": "lesson2-seid-seit.json"
+        }
+    ]
+}

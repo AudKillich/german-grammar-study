@@ -1,0 +1,205 @@
+/* General Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 100vh;
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+/* Study Info Section */
+.study-info {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    color: #3498db;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+ul {
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Group Selection */
+.group-selection {
+    background-color: #f5f7f9;
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.group-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5rem 0;
+}
+
+.group-btn {
+    padding: 12px 24px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.group-btn:hover {
+    background-color: #2980b9;
+}
+
+/* Continue Button */
+.continue-btn-container {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.continue-btn {
+    padding: 12px 30px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.continue-btn:hover {
+    background-color: #2980b9;
+}
+
+/* Submit Button */
+.submit-container {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.submit-btn {
+    padding: 12px 30px;
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #229954;
+}
+
+/* Restart Button */
+.restart-btn {
+    padding: 12px 30px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.restart-btn:hover {
+    background-color: #2980b9;
+}
+
+/* Timer Indicator */
+.timer-indicator {
+    background-color: #ffeaea;
+    border-left: 4px solid #e74c3c;
+    padding: 10px 15px;
+    margin: 1rem 0;
+    border-radius: 3px;
+}
+
+.timer-text {
+    color: #c0392b;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Time Display in Results */
+.time-display {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+
+.random-option {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.random-btn {
+    padding: 10px 20px;
+    background-color: #95a5a6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+}
+
+.random-btn:hover {
+    background-color: #7f8c8d;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+}
